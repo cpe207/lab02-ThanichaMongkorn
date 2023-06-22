@@ -1,0 +1,25 @@
+.skill-header {
+  text-align: left;
+}
+
+h4 {
+  text-align: center;
+  color: darkviolet;
+}
+
+body {
+  background-color: rgb(211, 236, 244);
+}
+
+div {
+  background-color: azure;
+}
+
+.skill-container {
+  border: dashed black;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
